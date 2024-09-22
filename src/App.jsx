@@ -1,8 +1,8 @@
-
+import ColorPicker from "./ColorPicker"
 
 function App() {
   return (
-    <div className="bg-red-400">Hello</div>
+    <ColorPicker></ColorPicker>
   )
 }
 
